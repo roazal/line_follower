@@ -5,9 +5,9 @@
 #webrepl.start()
 
 from machine import Pin,PWM
-from dcmotor import DCMotor
+from lib.dcmotor import DCMotor
 import time
-from servo import Servo
+from lib.servo import Servo
 from ultrasonic import HCSR04
 in1 = Pin(4, Pin.OUT)
 in2 = Pin(5, Pin.OUT)
