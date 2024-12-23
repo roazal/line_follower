@@ -1,7 +1,7 @@
 # line_follower_robot  
 We are students in *MSA University* Faculty of Engineering Department of *Mechatronics Systems Engineering*  
 This project made by:  
->[*omar mohamed galal*](www.linkedin.com/in/omar-mohamed-213b4a2b6)  
+>[**omar mohamed galal**](www.linkedin.com/in/omar-mo-ghazal)  
 *Atef amr abdeen*    
 *Mohab Elserafy*  
 >  
